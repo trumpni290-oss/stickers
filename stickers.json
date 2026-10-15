@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "repository": "trumpni290-oss/stickers",
+  "stickers": [
+    {
+      "id": "shocked-sweating",
+      "file": "3e71c0c6a9af11730799cb940a3dd6f8.jpg",
+      "title": "震惊冒汗",
+      "description": "黑白小动物张嘴冒汗，旁边两个感叹号；用于惊讶、心虚、被抓包。",
+      "tags": [
+        "震惊",
+        "惊讶",
+        "冒汗",
+        "心虚",
+        "被抓包",
+        "吓一跳",
+        "shocked",
+        "sweating"
+      ],
+      "sha": "9ae9350cd9970344bd918bee6dde903d1651ebd8"
+    },
+    {
+      "id": "kiss-you-are-welcome",
+      "file": "76294e194386a1179a5fa792f4ba3f44.jpg",
+      "title": "不客气，亲一口",
+      "description": "小熊抱住手指亲吻，文字：不客气，我应该做的！用于回应夸奖、感谢和亲亲。",
+      "tags": [
+        "亲亲",
+        "亲吻",
+        "谢谢",
+        "感谢",
+        "不客气",
+        "奖励",
+        "贴贴",
+        "kiss",
+        "thanks",
+        "love"
+      ],
+      "sha": "a55642013a5944ff4626f9fdc2a74cd9d1a35860"
+    },
+    {
+      "id": "kitten-why-ignore-me",
+      "file": "7a64bd6fe16b235ecbbfb1d01ce2d36a.jpg",
+      "title": "你为什么不理我",
+      "description": "小奶猫张嘴叫，文字：你特喵的为什么不理老子。仅适合双方轻松斗嘴、玩笑式求关注。",
+      "tags": [
+        "不理我",
+        "求关注",
+        "理理我",
+        "斗嘴",
+        "嘴硬",
+        "猫",
+        "attention",
+        "ignore"
+      ],
+      "sha": "007c89e54e595fd9e978ba82f066958dc46fa70f"
+    },
+    {
+      "id": "bear-pat-head",
+      "file": "c7b0ea358de6775b64c8ee77bd6e93d6.jpg",
+      "title": "摸摸头",
+      "description": "小熊眼睛水汪汪，被一只手摸头；用于温柔安慰、哄哄和撒娇。",
+      "tags": [
+        "摸摸头",
+        "摸头",
+        "安慰",
+        "哄哄",
+        "委屈",
+        "撒娇",
+        "抱抱",
+        "pat",
+        "comfort",
+        "hug"
+      ],
+      "sha": "80a16b37c9e41b5c9d2e519474a94dfbd4a05a50"
+    },
+    {
+      "id": "puppy-you-are-awake",
+      "file": "c826b30c517f18a930875ec7c1b36d2e.jpg",
+      "title": "你醒啦",
+      "description": "小狗凑到镜头前，文字：你醒啦。用于早安、醒来和轻松探头打招呼。",
+      "tags": [
+        "你醒啦",
+        "醒了",
+        "早安",
+        "起床",
+        "探头",
+        "打招呼",
+        "狗",
+        "morning",
+        "awake",
+        "hello"
+      ],
+      "sha": "79410edba25cb01badd0c2824fd58890676152f2"
+    },
+    {
+      "id": "bear-innocent-after-mischief",
+      "file": "c8d9c1c6f968848eb01ca236ed56626c.jpg",
+      "title": "做错事先卖萌",
+      "description": "棕色小熊脸红冒汗，文字：做错事先卖萌。用于承认小失误后的撒娇修复，不能代替认真认错。",
+      "tags": [
+        "做错事",
+        "认错",
+        "卖萌",
+        "小失误",
+        "求原谅",
+        "脸红",
+        "mischief",
+        "sorry",
+        "cute"
+      ],
+      "sha": "ab42d76a75ce180666d5d314de34168d9c36f1e3"
+    },
+    {
+      "id": "bear-like-you-for-a-long-time",
+      "file": "love-bear-like-you-for-a-long-time.jpg",
+      "title": "喜欢你很久很久",
+      "description": "雪景中的白色小熊眼睛闪亮，文字：你太可爱了！所以我决定要喜欢你很久很久。用于表白、夸可爱和表达长久的喜欢。",
+      "tags": [
+        "喜欢你",
+        "很久很久",
+        "可爱",
+        "爱你",
+        "表白",
+        "心动",
+        "长久",
+        "love",
+        "cute",
+        "forever"
+      ],
+      "sha": "25084f6aac49bba2e9605bfdd4cfc20b9ef98b69"
+    },
+    {
+      "id": "kitten-blank-stare",
+      "file": "blank-kitten-staring.jpg",
+      "title": "呆呆小猫",
+      "description": "裹着彩色头巾的小猫呆呆望着镜头，红色文字：呆… 用于发呆、愣住、茫然和懵。",
+      "tags": [
+        "呆",
+        "呆呆",
+        "发呆",
+        "愣住",
+        "茫然",
+        "懵",
+        "小猫",
+        "blank",
+        "confused"
+      ],
+      "sha": "9b7841d558aa2f3f1e1a9a68414a496f1ca1c1c1"
+    }
+  ]
+}
